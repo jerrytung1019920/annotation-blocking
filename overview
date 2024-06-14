@@ -1,0 +1,11 @@
+If you want to comment multiple lines,the steps blow you can process.
+
+
+Select the multiple lines of code you want to comment.
+Press Ctrl + K, then Ctrl + C (Windows) or Command + K, then Command + C (Mac).
+
+Uncomment multiple lines of code:
+Select the multiple lines of code you want to uncomment.
+Press Ctrl + K, then Ctrl + U (Windows) or Command + K, then Command + U (Mac).
+
+and the development environment is visual studio,I haven't tried the others yet.
