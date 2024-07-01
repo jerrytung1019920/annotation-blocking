@@ -1,3 +1,13 @@
+當你想要註解多行程式碼時，可以按照以下步驟操作：
+
+選擇你想要註解的多行程式碼。
+按下 Ctrl + K，然後按 Ctrl + C（Windows）或 Command + K，然後按 Command + C（Mac）。
+取消多行註解的方法：
+
+選擇你想要取消註解的多行程式碼。
+按下 Ctrl + K，然後按 Ctrl + U（Windows）或 Command + K，然後按 Command + U（Mac）。
+目前你所使用的開發環境是 Visual Studio，其他的開發環境你還沒有嘗試過。
+------------------------------------------------------------------------------------
 If you want to comment multiple lines,the steps blow you can process.
 
 
